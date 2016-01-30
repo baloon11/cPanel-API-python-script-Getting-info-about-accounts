@@ -24,7 +24,7 @@ for server_name in server_list:
     account_list=server.api('listaccts')['acct']
     out.write("%s %s %s"%(server_name,len(account_list),"accouts\n"))
     print 'proccesed server ',server_name
-    # for account in account_list: # if you need something else info about accout (for example, domain)
+    # for account in account_list: # if you need something else info about account (for example, domain)
     #     out.write(account['domain']+"\n")# uncomment this loop
 #    out.write("======================================================\n")
     out.close()
