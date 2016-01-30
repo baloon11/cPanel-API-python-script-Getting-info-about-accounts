@@ -3,7 +3,7 @@
 If you have a set of cPanels  and you need to know how many accounts in each,
 you can use this python script.
 
-Output information about cPanels  will write on `out` file.
+Output information about cPanels  will write in `out` file.
 
 If you need to get some different info from each cPanel, you can easy change the code.
 (see comments in code)
