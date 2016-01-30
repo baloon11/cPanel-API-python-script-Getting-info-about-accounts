@@ -38,6 +38,7 @@ In this variant all cPanels have the same login and password.
 	python acc_list.py
 
 **Note**: this repository contains a set of scripts for create/delete accounts and ip addresses.
+
 `https://github.com/baloon11/cPanel-API-python-scripts`
 
 
