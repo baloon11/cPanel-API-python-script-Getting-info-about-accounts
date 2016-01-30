@@ -8,7 +8,7 @@ admin_password="your_password"
 server_list=[# list of your cPanels
             'cpanel_1.your_domain.com',
             'cpanel_2.your_domain.com',
-            'cpanel_3.your_domain.com',
+            'cpanel_3.your_domain.com'
             ]
 #=============================================================
 
